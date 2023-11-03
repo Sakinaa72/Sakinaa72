@@ -14,6 +14,9 @@ I'm Sakina Rupani, I'm a software engineer 👨‍💻 who is passionate about m
 
 ### Tools & Technologies
 
+`HTML5`, `CSS3`, `React.js`, `Next.js`, `Javascript`, `Typescript`,`Express.js` `Redux toolkit`,`Jquery` `Bootstrap` `Materialize CSS` `Tailwind CSS` `Git` 
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
