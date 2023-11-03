@@ -7,7 +7,7 @@ I'm Sakina Rupani, I'm a software engineer 👨‍💻 who is passionate about m
 - 🔭 I’m currently working on becoming a Full Stack Developer
 - 🌱 I’m currently learning JavaScript, Nodejs, Express
 - 💬 Ask me about: JavaScript & React
-- 📑 To learn more about me you can check out my Resume
+- 📑 To learn more about me you can check out my <a href="https://drive.google.com/file/d/14QGHtJPto-2HMutPBxkZ6sxAi9FOJmMp/view?usp=sharing">Resume</a>
 - 📫 Reach me asap: sakiname72@gmail.com
 - 💼 Connecting on <a href="www.linkedin.com/in/sakinaarupanii">LinkedIn</a>
 
