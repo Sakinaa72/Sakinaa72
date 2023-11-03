@@ -1,8 +1,6 @@
 # Sakina Rupani  
 
 ## Hi 👋, 
-I'm Sakina Rupani, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
-🏄‍♂️. 
 
 - 🔭 I’m currently working on becoming a Full Stack Developer
 - 🌱 I’m currently learning JavaScript, Nodejs, Express
